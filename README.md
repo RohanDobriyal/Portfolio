@@ -8,10 +8,15 @@ A stunning and interactive 3D portfolio built using **Three.js** to showcase pro
  🚀 Features
 
  🎨 **Customizable 3D Environment** – Modify colors, textures, and models.
+ 
  🏗️ **Responsive Design** – Works on desktops and mobile devices.
+ 
  ⚡ **Optimized Performance** – Uses efficient rendering techniques.
+ 
  🔄 **Smooth Animations** – Implemented using GSAP and Three.js.
+ 
  🎭 **Interactive Elements** – Clickable objects, hover effects, and camera transitions.
+ 
 
  📂 Project Structure
 
@@ -19,10 +24,10 @@ A stunning and interactive 3D portfolio built using **Three.js** to showcase pro
 
  1️⃣ Clone the Repository
 
-
-git clone https://github.com/yourusername/threejs-portfolio.git
-cd threejs-portfolio
-
+```bash
+git clone https://github.com/RohanDobriyal/Portfolio.git
+cd Portfolio
+```
 
  2️⃣ Install Dependencies
 
