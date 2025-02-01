@@ -52,7 +52,9 @@ npm run build
  🎨 Customization
 
  **Change Background:** Modify `scene.js` to update colors or background textures.
+ 
  **Update Models:** Replace 3D models in `/public/assets/` and update references in `main.js`.
+ 
  **Modify Animations:** Edit animation logic in `main.js` using **GSAP or Three.js keyframes**.
 
 
@@ -60,9 +62,13 @@ npm run build
 ## 🖥️ Technologies Used
 
  [Three.js](https://threejs.org/) – WebGL-powered 3D rendering
+ 
  [GSAP](https://greensock.com/gsap/) – Smooth animations
+ 
  [Vite](https://vitejs.dev/) – Fast development server
+ 
  [GLTFLoader](https://threejs.org/docs/#examples/en/loaders/GLTFLoader) – Load 3D models
+ 
  [OrbitControls](https://threejs.org/docs/#examples/en/controls/OrbitControls) – Mouse navigation
 
 
